@@ -1,9 +1,10 @@
 <div align="center">
 
-# LEGACY DEV TEAM
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hello,+We'Are+;LEGACY+DEV+TEAM+;Welcome+To+Our+Github!+;Ok..+Let's+go"
 
 ## 💫 About Us  
-We are a Sri Lankan Game Developing Community. Our main project is the **MTA-SA LEGACY ROLEPLAY SERVER**.
+
+We are a SriLankan Game Developing Community. Our main project is **LEGACY ROLEPLAY SERVER**.
 
 ---
 
@@ -48,11 +49,6 @@ We are a Sri Lankan Game Developing Community. Our main project is the **MTA-SA 
 
 ---
 
-### ✍️ Random Dev Quote  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-
----
-
 ### 🔝 Top Contributed Repo  
 <img src="https://github-contributor-stats.vercel.app/api?username=LEGACY6969&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
 
@@ -61,5 +57,7 @@ We are a Sri Lankan Game Developing Community. Our main project is the **MTA-SA 
 [![](https://visitcount.itsvg.in/api?id=LEGACY6969&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h5 align="center">For More Information, Please Check Out or Contact We Via Discord Server <br>😍 Thanks for watching Our Github! Have a nice day! 😉<br>© 2025 LEGACY DEV TEAM</h5>
 
 </div>
