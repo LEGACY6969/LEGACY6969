@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hello,+We'Are+;LEGACY+DEV+TEAM+;Welcome+To+Our+Github!+;Ok..+Let's+go"
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=700&lines=Hello+%F0%9F%91%8B;We'Are+LEGACY+DEV+TEAM;Welcome+To+Our+GitHub!;Ok...+Let's+go!" />
 
 ## 💫 About Us  
 
