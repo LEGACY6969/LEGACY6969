@@ -1,6 +1,8 @@
 <div align="center">
 
-# 💫 About Us  
+# LEGACY DEV TEAM
+
+## 💫 About Us  
 We are a Sri Lankan Game Developing Community. Our main project is the **MTA-SA LEGACY ROLEPLAY SERVER**.
 
 ---
